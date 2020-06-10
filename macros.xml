@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="bulider">
+      <action id="CompileDirty" />
+    </macro>
+  </component>
+</application>

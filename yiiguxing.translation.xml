@@ -1,0 +1,64 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="specification" />
+      <item value="tax Rate" />
+      <item value="area" />
+      <item value="invoice Export" />
+      <item value="invoice Export Params" />
+      <item value="javax.crypto.BadPaddingException: Given final block not properly padded. Such issues can arise if a bad key is used during decryption." />
+      <item value="EncryptUtil.class" />
+      <item value="Given final block not properly padded. Such issues can arise if a bad key is used during decryption." />
+      <item value="Couldn't deserialize object in variable 'purchaseRequisitionList'" />
+      <item value="销售" />
+      <item value="sum Computed" />
+      <item value="unresize" />
+      <item value="options Override" />
+      <item value="create Container" />
+      <item value="中心" />
+      <item value="操作" />
+      <item value="call" />
+      <item value="比较" />
+      <item value="快捷菜单" />
+      <item value="java.lang.ClassCastException: org.springframework.web.servlet.resource.ResourceHttpRequestHandler cannot be cast to org.springframework.web.method.HandlerMethod" />
+      <item value="其他" />
+      <item value="三" />
+      <item value="disan" />
+      <item value="3" />
+      <item value="show" />
+      <item value="打印" />
+      <item value="批量" />
+      <item value="measurement" />
+      <item value="Invalid Host header" />
+      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'fastFdsController': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'fdfs.tracker-list[0]' in value &quot;${fdfs.tracker-list[0]}&quot;" />
+      <item value="collect Part" />
+      <item value="textarea" />
+      <item value="receiving Note" />
+      <item value="receiving Noe" />
+      <item value="receiving" />
+      <item value="收入成本表" />
+      <item value="供应商供应统计表" />
+      <item value="站段采购统计表" />
+      <item value="summary Of SupplierDaZong" />
+      <item value="order" />
+      <item value="orders" />
+      <item value="supplier" />
+      <item value="大宗商品" />
+      <item value="term" />
+      <item value="条件" />
+      <item value="tiaojia" />
+      <item value="autocomplete" />
+      <item value="大宗" />
+      <item value="财务计算" />
+      <item value="财务" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="81" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="HUNGARIAN" value="2" />
+      </map>
+    </option>
+  </component>
+</application>
